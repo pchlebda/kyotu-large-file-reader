@@ -1,0 +1,2 @@
+temperature:
+  file: ${KYOTU_FILE:classpath:min_file.csv}
